@@ -1,4 +1,4 @@
-# banking_prokit
+# bankingUi
 
 A new Flutter project.
 
