@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal.9.png",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_low_normal.9.png",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\shared_preferences_android\\intermediates\\merged_res\\debug\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    }
+]

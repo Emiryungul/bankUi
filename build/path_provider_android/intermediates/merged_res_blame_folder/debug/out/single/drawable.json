@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable\\notification_tile_bg.xml",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg_low.xml",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable\\notification_bg.xml",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\FlutterProjects\\bankUi\\build\\path_provider_android\\intermediates\\merged_res\\debug\\drawable\\notification_icon_background.xml",
+        "source": "C:\\Users\\emirh\\.gradle\\caches\\transforms-3\\c15ea10071d443ee455d1ed24f5921e2\\transformed\\core-1.6.0\\res\\drawable\\notification_icon_background.xml"
+    }
+]

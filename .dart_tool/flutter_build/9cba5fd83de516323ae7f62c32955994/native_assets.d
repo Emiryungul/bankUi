@@ -1,0 +1,1 @@
+ D:\\FlutterProjects\\bankUi\\.dart_tool\\flutter_build\\9cba5fd83de516323ae7f62c32955994\\native_assets.yaml: 
