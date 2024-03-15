@@ -2,9 +2,12 @@
 
 A new Flutter project
 
-# Briefly About Project 
+# Bank UI Flutter Project
+This Flutter project demonstrates a simple banking user interface (UI) built using the MobX state management library along with the Provider package for dependency injection.
 
-This is a Bank app with mobx provider and really good looking Ui
-![WhatsApp Görsel 2024-03-06 saat 17 17 17_e7b9651e](https://github.com/Emiryungul/bankUi_Dart/assets/139579385/9da79a3b-d3b2-4eec-895e-b8adbc4f1e39)
-![WhatsApp Görsel 2024-03-06 saat 17 17 17_c6d211db](https://github.com/Emiryungul/bankUi_Dart/assets/139579385/1cab88d1-7bf8-4f51-896e-44b9d306acb7)
-<img width="245" alt="Ekran görüntüsü 2024-03-06 171738" src="https://github.com/Emiryungul/bankUi_Dart/assets/139579385/182ed50a-2a73-4bad-a972-45c39ba5b7fd">
+Features
+Account Overview: View account balance and recent transactions.
+Transfer: Transfer funds between accounts.
+Payment Activities : Make payments to other accounts or merchants.
+Settings: Update account information and preferences.
+![Ekran Alıntısı](https://github.com/Emiryungul/bankUi_Dart/assets/139579385/97f0d4e9-429a-4c72-bd65-c994dde14cdc)
